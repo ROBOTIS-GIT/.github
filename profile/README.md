@@ -2,9 +2,19 @@
 
 ROBOTIS develops **Physical AI lineups** and open software built on **DYNAMIXEL**, the smart actuator and drive stack powering ROBOTIS robots from compact manipulators to human-scale platforms. With unified open interfaces, ROBOTIS connects DYNAMIXEL hardware, **ROS 2**–native control, action data and learning workflows, and simulation-to-real deployment—supporting **teleoperation**, **dataset collection**, **policy integration**, and field operation end to end.
 
-<p align="center"><a href="https://discord.gg/robotis"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://www.youtube.com/@ROBOTISOpenSourceTeam"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.linkedin.com/company/robotis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/RobotisAmerica"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://x.com/ROBOTIS"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"></a> <a href="https://www.instagram.com/robotis_global/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://huggingface.co/ROBOTIS"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=000" alt="Hugging Face"></a> <a href="https://emanual.robotis.com/"><img src="https://img.shields.io/badge/Manual-e03c31?style=flat&logo=readthedocs&logoColor=white" alt="e-Manual"></a> <a href="https://ai.robotis.com/"><img src="https://img.shields.io/badge/ai.robotis.com-5C3EE8?style=flat&logo=google-chrome&logoColor=white" alt="ai.robotis.com"></a></p>
+<p align="center">
+  <a href="https://discord.gg/robotis" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.youtube.com/@ROBOTISOpenSourceTeam" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/company/robotis/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/robotis.company" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://x.com/ROBOTIS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"></a>
+  <a href="https://www.instagram.com/robotis_global/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://huggingface.co/ROBOTIS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=000" alt="Hugging Face"></a>
+  <a href="https://emanual.robotis.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Manual-e03c31?style=flat&logo=readthedocs&logoColor=white" alt="e-Manual"></a>
+  <a href="https://ai.robotis.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ai.robotis.com-5C3EE8?style=flat&logo=google-chrome&logoColor=white" alt="ai.robotis.com"></a>
+</p>
+
+
 
 ---
 
@@ -30,4 +40,3 @@ ROBOTIS develops **Physical AI lineups** and open software built on **DYNAMIXEL*
 <tr><td><a href="https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie">robotis_mujoco_menagerie</a><br>MuJoCo models for fast physics and sim-to-real</td><td><img src="https://img.shields.io/github/stars/ROBOTIS-GIT/robotis_mujoco_menagerie?style=flat-square&amp;color=F59E0B&amp;labelColor=78350F" alt="Stars"></td><td><img src="https://img.shields.io/github/forks/ROBOTIS-GIT/robotis_mujoco_menagerie?style=flat-square&amp;color=3B82F6&amp;labelColor=1E3A5F" alt="Forks"></td><td align="center"><a href="https://github.com/ROBOTIS-GIT/robotis_mujoco_menagerie/releases"><img src="https://img.shields.io/github/v/release/ROBOTIS-GIT/robotis_mujoco_menagerie?display_name=tag&amp;style=flat-square&amp;color=059669&amp;labelColor=064E3B&amp;logo=github&amp;logoColor=white" alt="Releases"></a></td></tr>
 </tbody> 
 </table>
-
