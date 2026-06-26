@@ -11,7 +11,7 @@ ROBOTIS develops **Physical AI lineups** and open software built on **DYNAMIXEL*
   <a href="https://www.instagram.com/robotis_global/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://huggingface.co/ROBOTIS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=000" alt="Hugging Face"></a>
   <a href="https://emanual.robotis.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Manual-e03c31?style=flat&logo=readthedocs&logoColor=white" alt="e-Manual"></a>
-  <a href="https://ai.robotis.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ai.robotis.com-5C3EE8?style=flat&logo=google-chrome&logoColor=white" alt="ai.robotis.com"></a>
+  <a href="https://docs.robotis.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/docs.robotis.com-5C3EE8?style=flat&logo=google-chrome&logoColor=white" alt="docs.robotis.com"></a>
 </p>
 
 
